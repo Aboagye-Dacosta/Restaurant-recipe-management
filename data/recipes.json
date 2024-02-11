@@ -1,0 +1,146 @@
+{
+  "recipes": [
+    {
+      "id": "1400",
+      "title": "chiken stew",
+      "price": "21",
+      "description": "lsdlwlkkco",
+      "ingredients": [
+        "onions",
+        "cooking oil",
+        "pepper",
+        "chiken"
+      ],
+      "steps": [
+        "1.heat the cooking oil",
+        "2.add the chiken"
+      ],
+      "feedbacks": []
+    },
+    {
+      "id": "fef1",
+      "title": "Oil rice with fried rice",
+      "price": "33",
+      "description": "sweet oil rice with vegetables and deep fried eggs and onions and carrots and well grinded pepper .",
+      "ingredients": [
+        "eggs",
+        "onions",
+        "tomatoes",
+        "rice"
+      ],
+      "steps": [
+        "1.heat oil and fry the onions.",
+        "2.add the rice and fry for about 5mins.",
+        "3.add water and allow to boil for about 1hr."
+      ],
+      "feedbacks": [],
+      "rating": 0
+    },
+    {
+      "id": "0635",
+      "title": "lskflkel",
+      "price": "44",
+      "description": "lladfklewlewlewlkl",
+      "ingredients": [
+        "llfkglsfl1"
+      ],
+      "steps": [
+        "lkfsfkslflk"
+      ],
+      "feedbacks": [],
+      "rating": 0
+    },
+    {
+      "id": "8b6a",
+      "title": "Jollof rice",
+      "price": "21",
+      "description": "lsafleklwk",
+      "ingredients": [
+        "lkdffdlk"
+      ],
+      "steps": [
+        "lkfdlskflsk"
+      ],
+      "feedbacks": [],
+      "rating": 0
+    },
+    {
+      "id": "3e3c",
+      "title": "Banana Cake",
+      "price": "53",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi recusandae iste qui nihil totam facer",
+      "ingredients": [
+        "banana",
+        "sugar",
+        "water"
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi recusandae iste qui nihil totam facer"
+      ],
+      "feedbacks": [],
+      "rating": 0
+    },
+    {
+      "id": "c83a",
+      "title": "Banana Cake",
+      "price": "53",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi recusandae iste qui nihil totam facer",
+      "ingredients": [
+        "banana",
+        "sugar",
+        "water"
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi recusandae iste qui nihil totam facer"
+      ],
+      "feedbacks": [],
+      "rating": 0
+    },
+    {
+      "id": "e916",
+      "title": "jollof rice",
+      "price": "33",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi recusandae iste qui nihil totam facere optio",
+      "ingredients": [
+        "rice",
+        "tomatoes"
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi recusandae iste qui nihil totam facere optio"
+      ],
+      "feedbacks": [],
+      "rating": 0
+    },
+    {
+      "id": "e39f",
+      "title": "klsdfakf - 1",
+      "price": "22",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi",
+      "ingredients": [
+        "tomatoes",
+        "onion"
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi"
+      ],
+      "feedbacks": [],
+      "rating": 0
+    },
+    {
+      "id": "31e5",
+      "title": "Orange-44",
+      "price": "24",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi",
+      "ingredients": [
+        "Orange",
+        "water",
+        "sugar"
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat perspiciatis soluta rerum? Illo ab, ad quisquam quasi"
+      ],
+      "feedbacks": [],
+      "rating": 0
+    }
+  ]
+}

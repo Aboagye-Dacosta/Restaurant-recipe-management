@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home::after {
+  clip-path: polygon(0 0, 71% 0, 29% 100%, 0% 100%);
+
+  background-image: url("./images/img-1.jpg"),
+    linear-gradient(rgba(39, 38, 38, 0.853), rgba(58, 46, 44, 0.5));
+}
